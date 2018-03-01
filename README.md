@@ -10,7 +10,6 @@ Put the `district0x.el` file in your .emacs.d directory.
 
 At the bottom of the Emacs init file (init.el) add:
 
-'''lisp
+```lisp
 (load "shell-integration.el")
-'''
-
+```
